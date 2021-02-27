@@ -5,12 +5,36 @@
     <link>https://cwcyau.github.io/uom-health-ds-ai/tags/</link>
       <atom:link href="https://cwcyau.github.io/uom-health-ds-ai/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/uom-health-ds-ai/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
       <link>https://cwcyau.github.io/uom-health-ds-ai/tags/</link>
     </image>
+    
+    <item>
+      <title>Cancer</title>
+      <link>https://cwcyau.github.io/uom-health-ds-ai/tags/cancer/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/uom-health-ds-ai/tags/cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Biology</title>
+      <link>https://cwcyau.github.io/uom-health-ds-ai/tags/computational-biology/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/uom-health-ds-ai/tags/computational-biology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health Informatics</title>
+      <link>https://cwcyau.github.io/uom-health-ds-ai/tags/health-informatics/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/uom-health-ds-ai/tags/health-informatics/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

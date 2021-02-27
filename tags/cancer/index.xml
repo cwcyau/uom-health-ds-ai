@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cancer | Health Data Science &amp; AI @ Manchester</title>
+    <link>https://cwcyau.github.io/uom-health-ds-ai/tags/cancer/</link>
+      <atom:link href="https://cwcyau.github.io/uom-health-ds-ai/tags/cancer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cancer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/uom-health-ds-ai/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Cancer</title>
+      <link>https://cwcyau.github.io/uom-health-ds-ai/tags/cancer/</link>
+    </image>
+    
+    <item>
+      <title>RadNet</title>
+      <link>https://cwcyau.github.io/uom-health-ds-ai/project/radnet/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/uom-health-ds-ai/project/radnet/</guid>
+      <description>&lt;p&gt;What are the implications for University-based researchers?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
