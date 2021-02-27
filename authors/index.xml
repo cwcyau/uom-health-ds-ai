@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Health Data Science &amp; AI @ Manchester</title>
+    <link>https://uom-health-ds-ai.github.io/authors/</link>
+      <atom:link href="https://uom-health-ds-ai.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright>
+    <image>
+      <url>https://uom-health-ds-ai.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>https://uom-health-ds-ai.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/ainsworth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/ainsworth/</guid>
+      <description>&lt;p&gt;John Ainsworth is Professor of Health Informatics at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/ananiadou/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/ananiadou/</guid>
+      <description>&lt;p&gt;Sophia Ananiadou is Professor of Computer Science at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/astley/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/astley/</guid>
+      <description>&lt;p&gt;Sue Astley is Professor of Medical Imaging at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/brass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/brass/</guid>
+      <description>&lt;p&gt;Andrew Brass is Professor of Bioinformatics at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/bromiley/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/bromiley/</guid>
+      <description>&lt;p&gt;Paul Bromiley is Lecturer in Health Data Sciences at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/brown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/brown/</guid>
+      <description>&lt;p&gt;Gavin Brown is Professor of Machine Learning at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/brown2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/brown2/</guid>
+      <description>&lt;p&gt;Benjamin Brown is Senior Academic GP &amp;amp; Honorary Consultant at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/cootes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/cootes/</guid>
+      <description>&lt;p&gt;Tim Cootes is Professor of Medical Imaging at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/davies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/davies/</guid>
+      <description>&lt;p&gt;Alan  Davies is Senior Lecturer in Health Data Sciences at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/davies2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/davies2/</guid>
+      <description>&lt;p&gt;Ang Davies is Senior Lecturer at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/dixon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/dixon/</guid>
+      <description>&lt;p&gt;William Dixon is Professor of Digital Epidemiology at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/eleftheriou/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/eleftheriou/</guid>
+      <description>&lt;p&gt;Iliada Eleftheriou is Lecturer in Healthcare Sciences at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/fergie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/fergie/</guid>
+      <description>&lt;p&gt;Martin Fergie is Lecturer in Healthcare Sciences at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/geifman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/geifman/</guid>
+      <description>&lt;p&gt;Nophar Geifman is Senior Lecturer in Biomedical Data Analysis at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/guo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/guo/</guid>
+      <description>&lt;p&gt;Hui Guo is Senior Lecturer in Biostatistics at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/hall/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/hall/</guid>
+      <description>&lt;p&gt;Ian  Hall is Reader in Mathematical Statistics at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/hassan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/hassan/</guid>
+      <description>&lt;p&gt;Lamiece  Hassan is Health Data Research UK Research Fellow at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/hinz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/hinz/</guid>
+      <description>&lt;p&gt;Rainer  Hinz is Senior Lecturer in Functional Imaging at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/house/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/house/</guid>
+      <description>&lt;p&gt;Thomas House is Reader at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/iqbal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/iqbal/</guid>
+      <description>&lt;p&gt;Mudassar Iqbal is Lecturer in Health Data Sciences at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/jay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/jay/</guid>
+      <description>&lt;p&gt;Caroline Jay is Reader at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/kaski/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/kaski/</guid>
+      <description>&lt;p&gt;Sami Kaski is Professor of Artificial Intelligence at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/lindner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/lindner/</guid>
+      <description>&lt;p&gt;Claudia Lindner is Rutherford Fellow at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/martin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/martin/</guid>
+      <description>&lt;p&gt;Glen Martin is Lecturer in Health Data Sciences at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/mcwilliam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/mcwilliam/</guid>
+      <description>&lt;p&gt;Alan  McWilliam is Honorary Senior Lecturer at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/moulton/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/moulton/</guid>
+      <description>&lt;p&gt;Georgina Moulton is Professor of BioHealth Informatics and Education at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/nenadic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/nenadic/</guid>
+      <description>&lt;p&gt;Goran Nenadic is Professor of Computer Science at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/peek/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/peek/</guid>
+      <description>&lt;p&gt;Niels Peek is Professor of Health Informatics at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/rattray/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/rattray/</guid>
+      <description>&lt;p&gt;Magnus  Rattray is Professor of Computational &amp;amp; Systems Biology at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/sperrin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/sperrin/</guid>
+      <description>&lt;p&gt;Matthew Sperrin is Senior Lecturer at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/strimmer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/strimmer/</guid>
+      <description>&lt;p&gt;Korbinian  Strimmer is Professor of Statistics at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/taylor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/taylor/</guid>
+      <description>&lt;p&gt;Chris  Taylor is Professor of Medical Biophysics at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/thacker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/thacker/</guid>
+      <description>&lt;p&gt;Neil Thacker is Senior Lecturer at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/vanderveer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/vanderveer/</guid>
+      <description>&lt;p&gt;Sabine Van Der Veer is Lecturer in Health Data Sciences at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/vanherk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/vanherk/</guid>
+      <description>&lt;p&gt;Marcel Van Herk is Professor of Radiotherapy Physics at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/vanstaa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/vanstaa/</guid>
+      <description>&lt;p&gt;Tjeerd Van Staa is Professor in Health e-Research at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/wedge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/wedge/</guid>
+      <description>&lt;p&gt;David  Wedge is Professor of Cancer Genomics and Data Science at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/wong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/wong/</guid>
+      <description>&lt;p&gt;David Wong is Lecturer in AI for Healthcare at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://uom-health-ds-ai.github.io/authors/yau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uom-health-ds-ai.github.io/authors/yau/</guid>
+      <description>&lt;p&gt;Christopher  Yau is Professor of Artificial Intelligence at the University of Manchester.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
